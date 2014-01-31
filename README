@@ -1,3 +1,6 @@
+This repository was taken from mitsuhiko/flaskr to practice on the 
+Testing Flask Applications tutorial from http://flask.pocoo.org/docs/testing/#testing   
+   
                          / Flaskr /
 
                  a minimal blog application
